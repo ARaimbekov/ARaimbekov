@@ -1,4 +1,4 @@
-![image](https://github.com/ARaimbekov/ARaimbekov/assets/56764407/851c8213-aaee-48fc-875d-3508d6c23e35)<h1 align="center">Hi 👋, I'm Azim Raimbekov</h1>
+<h1 align="center">Hi 👋, I'm Azim Raimbekov</h1>
 <h3 align="center">A passionate developer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=araimbekov&label=Profile%20views&color=0e75b6&style=flat" alt="araimbekov" /> </p>
