@@ -11,9 +11,11 @@
 - 💬  Ask me about **All aspects of DevOps and SRE**
 
 <h3 align="left">Connect with me:</h3>
+
 - 📫  How to reach me via mail **azimraimbekov@gmail.com**
   
-- 📱   How to reach me via telegram **@araimbekov**
+- 📱   How to reach me via telegram **@araimbekov**  
+
 <p align="left">
 </p>
 
