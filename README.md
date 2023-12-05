@@ -4,14 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=araimbekov&label=Profile%20views&color=0e75b6&style=flat" alt="araimbekov" /> </p>
 
 
-- 🌱 I’m currently learning **DevOps/SRE tools**
+- 🌱  I’m currently learning **DevOps/SRE tools**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ARaimbekov](https://github.com/ARaimbekov)
+- 👨‍💻  All of my projects are available at [https://github.com/ARaimbekov](https://github.com/ARaimbekov)
 
-- 💬 Ask me about **All aspects of DevOps and SRE**
+- 💬  Ask me about **All aspects of DevOps and SRE**
 
-- 📫 How to reach me **azimraimbekov@gmail.com**
-- 📱 How to reach me **@araimbekov**
+- 📫  How to reach me **azimraimbekov@gmail.com**
+  
+- 📱   How to reach me **@araimbekov**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
